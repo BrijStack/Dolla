@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dolla/static/css/main.2d59c69c.css",
+    "main.js": "/Dolla/static/js/main.3a27e861.js",
+    "static/js/787.af4bc2c1.chunk.js": "/Dolla/static/js/787.af4bc2c1.chunk.js",
+    "static/media/video.mp4": "/Dolla/static/media/video.9fe1c882f5e463f68796.mp4",
+    "static/media/svg-1.svg": "/Dolla/static/media/svg-1.9edbec6f1716b2468a24918a57258088.svg",
+    "static/media/svg-4.svg": "/Dolla/static/media/svg-4.d2c3ac5749449cf0eb1dfb758c661705.svg",
+    "static/media/svg-2.svg": "/Dolla/static/media/svg-2.0d5eafcfa1b4a30e0bbdaeb28bff572e.svg",
+    "static/media/svg-3.svg": "/Dolla/static/media/svg-3.1df0667af98bc723b3a089e08b59b54b.svg",
+    "index.html": "/Dolla/index.html",
+    "main.2d59c69c.css.map": "/Dolla/static/css/main.2d59c69c.css.map",
+    "main.3a27e861.js.map": "/Dolla/static/js/main.3a27e861.js.map",
+    "787.af4bc2c1.chunk.js.map": "/Dolla/static/js/787.af4bc2c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d59c69c.css",
+    "static/js/main.3a27e861.js"
+  ]
+}
